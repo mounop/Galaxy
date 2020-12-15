@@ -121,7 +121,7 @@ a:focus {
 	text-align: center;
 	margin: -5.5vw 0 0 0;
 	z-index: 100;
-	font-size: 10vw;
+	font-size: 5vw;
 	color: var(--color-title);
 	line-height: 1;
 }
